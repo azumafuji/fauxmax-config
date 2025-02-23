@@ -1,0 +1,11 @@
+file_format: "1"
+id: fauxmax
+name: FauxMax Macropad
+type: shield
+url: https://mechboards.co.uk/products/romac-macro-pad
+requires: [pro_micro]
+features:
+  - keys
+  - encoder
+  - display
+  - underglow
