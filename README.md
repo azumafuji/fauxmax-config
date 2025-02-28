@@ -8,7 +8,7 @@ The basic keymapping, layers, and the rotary encoder all work as expected.
 
 ## ToDo
   * [x] Underglow
-  * [ ] Display
+  * [x] Display
   * [ ] Bluetooth
   * [ ] ZMK Studio
 
