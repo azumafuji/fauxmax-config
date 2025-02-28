@@ -7,7 +7,7 @@ This is a small project to get ZMK working for the [FauxMax](https://mechboards.
 The basic keymapping, layers, and the rotary encoder all work as expected.
 
 ## ToDo
-  * [ ] Underglow
+  * [x] Underglow
   * [ ] Display
   * [ ] Bluetooth
   * [ ] ZMK Studio
