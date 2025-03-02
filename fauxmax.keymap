@@ -41,11 +41,21 @@
              bindings = <
      &bt BT_CLR         &kp HOME        &kp PG_UP
      &trans             &kp END         &kp PG_DN
-     &ext_power EP_TOG   &rgb_ug RGB_EFF  &trans
+     &rgb_ug RGB_TOG   &rgb_ug RGB_EFF  &studio_unlock
      &trans             &trans          &trans
              >;
 
              sensor-bindings = <&inc_dec_kp A B>;
          };
+
+        extra1 {
+            status = "reserved";
+        };
+
+        extra2 {
+            status = "reserved";
+        };
+
+
     };
 };
