@@ -15,6 +15,9 @@ The basic keymapping, layers, and the rotary encoder all work as expected.
 
 ## Building 
 
+I set up a local toolchain and build locally.  I used the `uv` Python tool to install and manage dependancies and run the appropriate `west` commands as seen below.
+
+
 Use the following command to build with ZMK Studio support 
 
 ```
